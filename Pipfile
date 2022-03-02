@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 apache-airflow = "==2.2.4"
+black = "*"
 
 [dev-packages]
 
